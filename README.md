@@ -1,6 +1,6 @@
 # figma-hiring-tickets
 
-## Specific "hiring tickets" templates examples for job advertisements created on Figma (https://www.figma.com/) service prepared for layout and conversion to HTML or React/Angular code.
+Specific "hiring tickets" templates examples for job advertisements created on Figma (https://www.figma.com/) service prepared for layout and conversion to HTML or React/Angular code.
 
 ![alt text](images/ortnec-adult-product.png "Ortnec Adult Product Owner")
 
@@ -11,6 +11,8 @@
 ![alt text](images/improve-uz-java.png "Improve UZ Java")
 
 ## In my opinion it is beautiful ))
+
+## Locations:
 
 > Ticket examples located in *images* folder.
 
