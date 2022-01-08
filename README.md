@@ -18,4 +18,4 @@ Specific "hiring tickets" templates examples for job advertisements created on F
 
 > Layouts located in *exported-layouts* folder.
 
-This layouts integrated with Anima Application (www.animaapp.com) through Anima + Figma Integration (https://www.animaapp.com/figma) and may be converted to HTML or Angular/React code (for more information see Anima for Sigma prototypes documentation: https://docs.animaapp.com/v3/figma/prototype/index.html).
+This layouts integrated with Anima Application (www.animaapp.com) through Anima + Figma Integration (https://www.animaapp.com/figma) and may be converted to HTML or Angular/React code (for more information see Anima for Figma prototypes documentation: https://docs.animaapp.com/v3/figma/prototype/index.html).
