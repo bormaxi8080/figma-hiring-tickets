@@ -10,6 +10,8 @@ Specific "hiring tickets" templates examples for job advertisements created on F
 
 ![alt text](images/improve-uz-java.png "Improve UZ Java")
 
+![alt text](images/parrots.jpg "Parrots")
+
 ## In my opinion it is beautiful ))
 
 ## Locations:
